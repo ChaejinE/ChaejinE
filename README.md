@@ -10,12 +10,18 @@
 
 # 🏄🏼‍♀️ TOY PROJECT
 
+<div align="center">
+  
 | Title | URL |
 |  ---  | --- |
 | Login | [url](https://github.com/ChaejinE/Login) |
 
+</div>
+
 # 🔖 STUDY
 
+<div align="center">
+  
 | Title | URL | Title | URL |
 |  ---  | --- |  ---  | --- |
 | Kubernetes | [url](https://github.com/ChaejinE/Kubernetes) | Node JS| [url](https://github.com/ChaejinE/study-nodejs) |
@@ -24,7 +30,7 @@
 | AWS | [url](https://github.com/ChaejinE/AWS) | Docker | [url](https://github.com/ChaejinE/docker-practice) |
 | Helm | [url](https://github.com/ChaejinE/HelmChart) | | |
 
-
+</div>
 
 
 
