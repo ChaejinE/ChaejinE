@@ -16,19 +16,19 @@
 
 # 🔖 STUDY
 
-| Title | URL |
-|  ---  | --- |
-| Kubernetes | [url](https://github.com/ChaejinE/Kubernetes) |
-| Nginx | [url](https://github.com/ChaejinE/Nginx) |
-| Elastic Search | [url](https://github.com/ChaejinE/Elastic-Search) |
-| AWS | [url](https://github.com/ChaejinE/AWS) |
-| Helm | [url](https://github.com/ChaejinE/HelmChart) | 
+| Title | URL | Title | URL |
+|  ---  | --- |  ---  | --- |
+| Kubernetes | [url](https://github.com/ChaejinE/Kubernetes) | Node JS| [url](https://github.com/ChaejinE/study-nodejs) |
+| Nginx | [url](https://github.com/ChaejinE/Nginx) | FastAPI | [url](https://github.com/ChaejinE/fastapi-basic) |
+| Elastic Search | [url](https://github.com/ChaejinE/Elastic-Search) | DBs | [url](https://github.com/ChaejinE/DBs) |
+| AWS | [url](https://github.com/ChaejinE/AWS) | Docker | [url](https://github.com/ChaejinE/docker-practice) |
+| Helm | [url](https://github.com/ChaejinE/HelmChart) | | |
 
 
-| Title | URL |
-|  ---  | --- |
-| Node JS| [url](https://github.com/ChaejinE/study-nodejs) |
-| FastAPI | [url](https://github.com/ChaejinE/fastapi-basic) |
-| DBs | [url](https://github.com/ChaejinE/DBs) |
-| Docker | [url](https://github.com/ChaejinE/docker-practice) |
+
+
+
+
+
+
 
