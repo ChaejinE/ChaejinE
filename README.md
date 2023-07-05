@@ -11,9 +11,11 @@
 # 🏄🏼‍♀️ TOY PROJECT
 
 <div align="center">
+  
 | Title | URL |
 |  ---  | --- |
 | Login | [url](https://github.com/ChaejinE/Login) |
+
 </div>
 
 # 🔖 STUDY
