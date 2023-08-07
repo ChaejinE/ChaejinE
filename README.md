@@ -6,6 +6,9 @@
 
 ![Lotto Power](https://github-readme-stats.vercel.app/api?username=ChaejinE&theme=dark&show_icons=true)
 
+# 👑 Projects
+
+
 # 🏄🏼‍♀️ TOY PROJECT
 
 <div align="center">
