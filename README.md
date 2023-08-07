@@ -8,7 +8,7 @@
 
 <div align="center">
   
-# 👑 [Projects](https://github.com/ChaejinE/ChaejinE/wiki)
+# 👑 [PROJECTS](https://github.com/ChaejinE/ChaejinE/wiki)
 
 </div>
 
