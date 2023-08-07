@@ -6,12 +6,15 @@
 
 ![Lotto Power](https://github-readme-stats.vercel.app/api?username=ChaejinE&theme=dark&show_icons=true)
 
-# 👑 Projects
+<div align="center">
+  
+# 👑 [Projects](https://github.com/ChaejinE/ChaejinE/wiki)
 
-
-# 🏄🏼‍♀️ TOY PROJECT
+</div>
 
 <div align="center">
+  
+# 🏄🏼‍♀️ TOY PROJECT
   
 | Title | URL |
 |  ---  | --- |
@@ -19,9 +22,9 @@
 
 </div>
 
-# 🔖 STUDY
-
 <div align="center">
+
+# 🔖 STUDY
   
 | Title | URL | Title | URL |
 |  ---  | --- |  ---  | --- |
