@@ -42,7 +42,7 @@
 
 </div>
 
-<div aign="center">
+<div align="center">
 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Kubeflow-blue?style=for-the-badge)
