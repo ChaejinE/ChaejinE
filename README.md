@@ -22,7 +22,7 @@
 
 <div>
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%B1%84%EC%A7%84-%EC%A0%95-0862aa247/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%B1%84%EC%A7%84-%EC%A0%95-0862aa247/)](https://www.linkedin.com/in/%EC%B1%84%EC%A7%84-%EC%A0%95-0862aa247/)
   
 </div>
 
