@@ -5,16 +5,17 @@
 </div>
 
 <div align="center">
-  
-# 2. 🏄🏼‍♀️ [TOY PROJECT](https://github.com/ChaejinE/Toy-Project)
+
+# 2. 🔖 [STUDY](https://github.com/ChaejinE/Study)
 
 </div>
 
 <div align="center">
-
-# 3. 🔖 [STUDY](https://github.com/ChaejinE/Study)
+  
+# 3. 🏄🏼‍♀️ [TOY PROJECT](https://github.com/ChaejinE/Toy-Project)
 
 </div>
+
 
 
 
