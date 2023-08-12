@@ -1,22 +1,18 @@
 <div align="center">
   
-# 👑 [PROJECTS](https://github.com/ChaejinE/ChaejinE/wiki)
+# [1. 👑 PROJECTS](https://github.com/ChaejinE/ChaejinE/wiki)
 
 </div>
 
 <div align="center">
   
-# 🏄🏼‍♀️ TOY PROJECT
-  
-| Title | URL |
-|  ---  | --- |
-| Login | [url](https://github.com/ChaejinE/Login) |
+# [2. 🏄🏼‍♀️ TOY PROJECT](https://github.com/ChaejinE/Toy-Project)
 
 </div>
 
 <div align="center">
 
-# 🔖 [STUDY](https://github.com/ChaejinE/Study)
+# [3. 🔖 STUDY](https://github.com/ChaejinE/Study)
 
 </div>
 
