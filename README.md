@@ -22,7 +22,7 @@
 
 <div>
   
-<img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2"&link="https://www.linkedin.com/in/%EC%B1%84%EC%A7%84-%EC%A0%95-0862aa247/"/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%B1%84%EC%A7%84-%EC%A0%95-0862aa247/)
   
 </div>
 
