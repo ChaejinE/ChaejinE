@@ -34,7 +34,7 @@
 <div align="center">
   
 # 4. 🏄🏼‍♀️ Persnal Services
-
+  
 | Title | Repository | Status |
 | --- | --- | --- |
 | FitCheck | [url](https://github.com/ChaejinE/FitCheck) | Getting Ready |
