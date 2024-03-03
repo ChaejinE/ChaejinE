@@ -9,8 +9,6 @@
 이를 통해 유의미한 결과물을 창출해내는 것을 목표로 하며, 전문성을 키우기 위해 끊임없이 노력하고 있습니다.
 ```
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tech&theme=kakao)](https://cj-lotto.tistory.com/)
-
 </p>
 
 </div>
@@ -46,6 +44,7 @@
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%B1%84%EC%A7%84-%EC%A0%95-0862aa247/)](https://www.linkedin.com/in/%EC%B1%84%EC%A7%84-%EC%A0%95-0862aa247/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TechBlog&theme=kakao)](https://cj-lotto.tistory.com/)
   
 </div>
 
