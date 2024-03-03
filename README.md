@@ -9,7 +9,7 @@
 이를 통해 유의미한 결과물을 창출해내는 것을 목표로 하며, 전문성을 키우기 위해 끊임없이 노력하고 있습니다.
 ```
 
-[Tech Blog](https://medium.com/@joung6517)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=LottoLab&theme=Tech)](https://cj-lotto.tistory.com/)
 
 </p>
 
