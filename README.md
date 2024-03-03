@@ -17,7 +17,7 @@
 
 <div align="center">
   
-# 1. 👑 [PROJECTS](https://github.com/ChaejinE/ChaejinE/wiki)
+# 1. 👑 [COMPANY PROJECTS](https://github.com/ChaejinE/ChaejinE/wiki)
 
 </div>
 
